@@ -1,0 +1,19 @@
+{
+  "name": "demo-cli-template",
+  "version": "1.0.0",
+  "description": "demo-cli-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerwin-ly/demo-cli-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerwin-ly/demo-cli-template/issues"
+  },
+  "homepage": "https://github.com/kerwin-ly/demo-cli-template#readme"
+}
